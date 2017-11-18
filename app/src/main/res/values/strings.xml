@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Polisteria</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="polisteria_app_name">Polisteria</string>
+    <string name="pedir_email">Email</string>
+    <string name="pedir_password">Password</string>
+    <string name="login_textView">Polisteria</string>
+    <string name="sign_in_botton">Log In</string>
+    <string name="forgotPassword_textView">Forgot password?</string>
+
+    <!-- Sign Up String -->
+    <string name="title_activity_sing_up">singUpActivity</string>
+    <string name="nameEditTex">Full Name</string>
+    <string name="lastnameEditText">LastName</string>
+    <string name="confirm_email">Confirm email</string>
+    <string name="last_nameEditText">Last Name</string>
+    <string name="polisteriaLogoName">polisteriaLogoName</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+</resources>
